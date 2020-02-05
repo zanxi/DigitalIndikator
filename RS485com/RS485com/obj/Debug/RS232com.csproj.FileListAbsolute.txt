@@ -1,0 +1,5 @@
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe.config
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\bin\Debug\RS485com.pdb
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.exe
+D:\_V2017_\_MyIzmeritel__\_MyRS232com__\RS485com\RS485com\obj\Debug\RS485com.pdb
